@@ -5,5 +5,5 @@ Notebooks del diplomado: Estadística con R
 2. 2m3m3m3
 3. 343
 
-$$\alpha = 3$$
+$\alpha = 3$
 
